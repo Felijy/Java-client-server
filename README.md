@@ -1,5 +1,7 @@
 # Java-client-server
  Clent-Server Java application with Swing GUI
+
+Port for connection gets from LAB_PROG env
 # You can
 - Insert, update and remove Tickets elements
 - See visualization of Tickets in the drawer
