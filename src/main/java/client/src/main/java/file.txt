@@ -1,0 +1,11 @@
+show
+insert 4
+1
+2
+3
+4
+USUAL
+5
+7
+
+show
